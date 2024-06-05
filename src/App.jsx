@@ -1,5 +1,6 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import Index from "./pages/Index.jsx";
+import Index from "./pages/Index";
+import Sidebar from "./components/Sidebar";
 
 function App() {
   return (
